@@ -1,0 +1,5 @@
+require("prototypes.items")
+require("prototypes.recipies")
+require("prototypes.entities")
+require("prototypes.technologies")
+require("prototypes.technology-updates")
